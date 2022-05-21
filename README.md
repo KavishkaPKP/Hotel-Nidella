@@ -16,8 +16,8 @@ Hotel Management system. this Project uses PHP, MYSQL XAMPP server. this is our 
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+go to the xampp folder  find HTDOCS and past this downloded project
+import database from xampp loclehot
 ```
     
 ## Tasks done through our system
