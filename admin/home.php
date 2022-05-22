@@ -70,10 +70,20 @@ if(!isset($_SESSION["user"]))
                         <a href="roombook.php"><i class="fa fa-bar-chart-o"></i> Room Booking</a>
                     </li>
                     <li>
+                        <a href="roommanage.php"><i class="fa fa-bar-chart-o"></i> Room Managing</a>
+                    </li>
+                    <li>
                         <a href="hallbook.php"><i class="fa fa-bar-chart-o"></i> Hall Booking</a>
                     </li>
                     <li>
+                        <a href="hallmanage.php"><i class="fa fa-bar-chart-o"></i> Hall Managing</a>
+                    </li>
+                   
+                    <li>
                         <a href="eventbook.php"><i class="fa fa-bar-chart-o"></i> Event Booking</a>
+                    </li>
+                    <li>
+                        <a href="eventmanage.php"><i class="fa fa-bar-chart-o"></i> Event Managing</a>
                     </li>
                     <li>
                         <a href="payment.php"><i class="fa fa-qrcode"></i> Payment</a>

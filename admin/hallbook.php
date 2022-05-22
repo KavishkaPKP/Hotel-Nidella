@@ -72,6 +72,9 @@ if(!isset($_SESSION["user"]))
                         <a href="hallbook.php"><i class="fa fa-bar-chart-o"></i> Hall Booking</a>
                     </li>
                     <li>
+                        <a href="hallmanage.php"><i class="fa fa-bar-chart-o"></i> Hall Managing</a>
+                    </li>
+                    <li>
                         <a href="eventbook.php"><i class="fa fa-bar-chart-o"></i> Event Booking</a>
                     </li>
                     <li>
