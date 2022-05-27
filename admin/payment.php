@@ -114,17 +114,17 @@ if(!isset($_SESSION["user"]))
                                     <thead>
                                         <tr>
                                             <th>Name</th>
-											<th>Hall</th>
-                                            <th>Room</th>
-                                            <th>CheckIn</th>
-											<th>CheckOut</th>
-											<th>Qty</th>
-											<th>Meal</th>
+											<th>Room type</th>
+                                            <th>Bed Type</th>
+                                            <th>Check in</th>
+											<th>Check out</th>
+											<th>No of Room</th>
+											<th>Meal Type</th>
 											
-                                            <th>Amount</th>
-											<th>Rent</th>
+                                            <th>Room Rent</th>
+											<th>Bed Rent</th>
 											<th>Meals </th>
-											<th>Total</th>
+											<th>Gr.Total</th>
 											<th>Print</th>
                                             
                                         </tr>

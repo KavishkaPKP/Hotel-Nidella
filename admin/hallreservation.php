@@ -140,13 +140,13 @@ include('db.php')
                                             <label>Meal Package</label>
                                             <select name="meal" class="form-control" required>
 												<option value selected ></option>
-                                                <option value="1">1</option>
-                                                <option value="2">2</option>
-												<option value="3">3</option>
-												<option value="4">4</option>
-												<option value="5">5</option>
-												<option value="6">6</option>
-												<option value="7">7</option>
+                                                <option value="Breakfast">Breakfast</option>
+                                                <option value="Brunch">Brunch</option>
+												<option value="Elevenses">Elevenses</option>
+												<option value="Lunch">Lunch</option>
+												<option value="Tea">Tea</option>
+												<option value="Supper">Supper</option>
+												<option value="Dinner">Dinner</option>
                                             </select>
                               </div>
 

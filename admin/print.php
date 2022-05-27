@@ -259,7 +259,7 @@ tr:hover .cut { opacity: 1; }
 				<p>New Kalmunani Road,<br>Battialoa,<br>Sri Lanka.</p>
 				<p>+94 (01) 222-44-55</p>
 			</address>
-			<span><img alt="" src="assets/img/sun.png"></span>
+			<span><img alt="" src="assets/img/logo.png"></span>
 		</header>
 		<article>
 			<h1>Recipient</h1>
